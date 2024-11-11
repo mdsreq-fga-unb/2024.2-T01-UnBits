@@ -3,7 +3,7 @@ Repositório de projeto da disciplina de REQ-T1.
 
 # UnBits
 
-![UnBits_logo](img/UnBits_logo_one.png)
+![UnBits_logo](docs/img/UnBits_logo_one.png)
 
 ## O projeto
 
