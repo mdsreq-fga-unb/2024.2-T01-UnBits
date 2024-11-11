@@ -1,1 +1,30 @@
-site_name: My Docs
+site_name: Quality Centro de Implante Oral
+site_url: https://mdsreq-fga-unb.github.io/2024.2-T01-UnBits.git/
+repo_url: "https://github.com/mdsreq-fga-unb/2024.2-T01-UnBits.git"
+theme:
+   name: material 
+   palette:
+    - scheme: default
+      toggle: 
+         icon: material/toggle-switch-off-outline
+         name: Dark mode
+      primary: white
+    - scheme: slate
+      toggle:
+         icon: material/toggle-switch
+         name: Light mode
+      primary: white
+#site_logo: petguara.png
+
+nav:
+  - Página Inicial: index.md
+  - Visão do produto e projeto:
+    - Cenário atual do cliente e do negócio: cenario_atual.md
+    - Solução proposta: solucao_proposta.md
+    - Estratégias de engenharia de software: estrategias_software.md
+    - Cronograma e entregas: cronograma_entregas.md  
+    - Interação entre equipe e cliente: interacao.md
+    - Lições aprendidas: licoes_aprendidas.md 
+
+extra_css:
+   - css/custom.css

@@ -1,17 +1,16 @@
-# Welcome to MkDocs
+# UnBits
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+![UnBits_logo](img/UnBits_logo_one.png)
 
-## Commands
+## O projeto
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Equipe
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+|                                        | Nome       | Matricula        | Cargo        |
+|----------------------------------------|------------|------------------|--------------|
+| ![Arthur](img/arthur.png) | Arthur Heleno do Couto da Silva | 180116746 | Em processo |
+| ![Felipe](img/felipe.png)     | Felipe Fernandes Brandim  | 202016201 | Em processo       |
+| ![Isabelle](img/isabelle.png) | Isabelle Da Costa Figuereido   | 211039500 | Em processo        |
+| ![Lucas](img/lucas.png) | Lucas Oliveira Meireles   | 190016647 | Em processo        |
+| ![Mateus](img/mateus.png) | Mateus Villela Consorte   | 221008786 | Em processo        |
+| ![Sebastián](img/sebastian.png) | Sebastián Héctor Zuzunaga Rosado   | 211006957 | Em processo        |
