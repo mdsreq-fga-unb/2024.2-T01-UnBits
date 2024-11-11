@@ -17,7 +17,7 @@ theme:
 #site_logo: petguara.png
 
 nav:
-  - Página Inicial: index.md
+  - Home page: index.md
   - Visão do produto e projeto:
     - Cenário atual do cliente e do negócio: cenario_atual.md
     - Solução proposta: solucao_proposta.md
