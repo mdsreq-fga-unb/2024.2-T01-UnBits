@@ -2,28 +2,25 @@
 
 ## Estratégia Priorizada 
 
-**Abordagem:** TESTE <br>
-**Ciclo de Vida:** TESTE <br>
-**Processo:** TESTE <br>
+**Abordagem:** Agil <br>
+**Ciclo de Vida:** Incremental e iterativo <br>
+**Processo:** OpenUP <br>
 
 ## Quadro Comparativo 
 
-| Características                | OpenUP                                                                                         | ScrumXP                                                                                     |
+| Características                | OpenUP                                                                                         | Unified Process (UP)                                                                                     |
 |--------------------------------|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-| **Abordagem Geral**            | Iterativo, incremental e baseado em arquitetura sólida.                                        | Iterativo e incremental com foco em entregas rápidas e feedback contínuo.                   |
-| **Foco em Arquitetura**        | Forte ênfase no desenvolvimento orientado a uma arquitetura sólida e flexível desde o início.  | Menor foco na arquitetura inicialmente, com evolução conforme a necessidade ao longo do projeto. |
-| **Estrutura de Processos**     | Estrutura clara de fases (Iniciação, Elaboração, Construção, Transição); mais estruturado, porém ágil. | Focado em sprints curtos e flexíveis (2-4 semanas) com entregas incrementais e adaptação contínua. |
-| **Flexibilidade de Requisitos** | Oferece flexibilidade com adaptações iterativas, mas requer definição da arquitetura principal nas fases iniciais. | Alta flexibilidade para mudanças contínuas de requisitos a cada sprint; adaptável a feedback frequente. |
-| **Colaboração com Cliente**    | Envolvimento contínuo do cliente, com foco em entrega e validação nas fases iniciais e finais. | Envolvimento constante do cliente, com feedback ao final de cada sprint, garantindo atualizações frequentes. |
-| **Complexidade do Processo**    | Mais formal, com documentação e fases estruturadas; requer mais disciplina e papéis claros.    | Mais leve e ágil, com menos documentação formal e foco em entregas funcionais.               |
-| **Qualidade Técnica**          | Assegurada pela definição clara da arquitetura inicial e validação incremental ao longo do ciclo. | Alta ênfase em TDD, pair programming e integração contínua para garantir um código limpo e funcional. |
-| **Práticas de Desenvolvimento** | Estrutura formal com foco em arquitetura e controle de progresso; menos práticas técnicas específicas. | Inclui TDD, refatoração contínua, integração contínua e pair programming, promovendo qualidade no código. |
-| **Adaptação ao Projeto EcoFashion** | Ideal para projetos que exigem arquitetura bem definida (como integração com sistemas de estoque) com flexibilidade para entregas incrementais. | Ideal para projetos com interação constante com o cliente e evolução contínua, adaptável a mudanças rápidas. |
-| **Documentação**               | Requer documentação formal para cada fase, com ênfase em requisitos e arquitetura.            | Documentação mínima; foco na comunicação e feedback rápido, mantendo apenas o essencial.    |
-| **Controle de Qualidade**      | Validações incrementais e revisões da arquitetura em cada fase.                               | Controle de qualidade embutido no XP com TDD e integração contínua, testando cada nova funcionalidade. |
+| **Abordagem Geral**            | Versão leve e ágil do UP.                                        | 	Metodologia mais pesada e estruturada.                   |
+| **Estrutura de Processos**     | Estrutura clara de fases (Iniciação, Elaboração, Construção, Transição); mais estruturado, porém ágil, com menos entregas e documentação mais leve. | Segue a estrutura de fases (Iniciação, Elaboração, Construção, Transição) com requisitos detalhados de entrega e documentação em cada fase. |
+| **Flexibilidade** | Projetado para ser mais adaptável e ágil, adequado para projetos pequenos a médios. | Menos flexível; mais adequado para grandes projetos complexos que se beneficiam de um planejamento e controle detalhados. |
+| **Colaboração com Cliente**    | Feedback regular dos stakeholders, mais interação em cada iteração. | Normalmente envolve avaliações de clientes no final de cada fase. |
+| **Arquitetura**    | Ênfase na criação ceda de uma arquitetura sólida, mas com menos restrições arquitetônicas.    | Forte ênfase no desenvolvimento de arquitetura em primeiro lugar, garantindo uma base estável antes de prosseguir.               |
+| **Documentação**               | Mínimo, focando apenas na documentação essencial.            | Extensivo, com artefatos definidos para cada fase e marco.    |
+| **Controle de Qualidade**      | Enfatiza a integração contínua e testes em iterações.                               | Os testes são enfatizados, mas muitas vezes mais estruturados e formalizados. |
 | **Escalabilidade**             | Aplicável a projetos maiores e complexos, com equipes médias a grandes.                       | Escalável, mas ideal para equipes menores e médias devido à abordagem colaborativa.        |
-| **Suporte a Equipes de Desenvolvimento** | Suporta equipes maiores e com papéis definidos, requerendo mais controle sobre o progresso. | Suporta equipes menores, mais colaborativas e com papéis flexíveis, adaptando-se ao ritmo do projeto. |
+| **Suporte a Equipes de Desenvolvimento** | Melhor adequado para equipes menores e multifuncionais. | Dimensiona bem para equipes maiores com funções e responsabilidades definidas. |
 
 
 ## Justificativa 
 
+Optou-se por OpenMP sobre o Unified Process porque permite iterações mais curtas, o que significa uma obtenção de feedback mais constante e facilita a incorporação de mudanças no projeto; Isso é importante porque os requisitos da clínica não são fixos e podem ser eliminados, novos requisitos podem ser criados ou requisitos já estabelecidos podem receber alterações durante o processo de desenvolvimento.

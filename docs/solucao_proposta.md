@@ -8,7 +8,7 @@ Aqui, tem-se um conjunto inicial das principais características que a solução
 
  - O site será visto e operado da mesma forma, independentemente de ser acessado por computador ou celular para não limitar as opções que um cliente tem para acessar o serviço.
  - O site terá todas as informações relacionadas a procedimentos que realiza a clínica, estas se encontram dentro das especializações às quais pertencem, isto será ordenado usando menus.
- - O processo de reserva será feito através de formulários ou whatsapp, ambos podem ser acessados através do site.
+ - O processo de agendamento de consulta será feito através de formulários ou whatsapp, ambos podem ser acessados através do site.
  - No processo de reserva pode ser escolhido a especialidade, o profissional e o horário específico que se deseja reservar, a disponibilidade dependerá do calendário do profissional.
  - Será feito uso de um banco de dados, atualizado diariamente, para implementar o calendário de disponibilidade dos profissionais que pode ser consultado por qualquer pessoa com acesso ao site, para garantir que os clientes têm informações atualizadas ao fazer uma reserva.
  - O site permitirá entrar em contato com um profissional para resolver dúvidas específicas que possa ter um usuário.
